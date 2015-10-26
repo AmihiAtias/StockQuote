@@ -119,6 +119,7 @@ public class stockInfoActivity extends Activity{
                             LastTradePriceOnly="";
                             Change="";
                             DaysRange="";
+                            int eliad=0;
                         }
                     }
 
