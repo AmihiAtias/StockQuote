@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText stockSymbolEditText;
 
-    private int eliad;
+
 
     Button enterStockSymbolbutton;
     Button deletAllsymbol;
